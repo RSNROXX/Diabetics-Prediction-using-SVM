@@ -48,23 +48,33 @@ The confusion matrix highlights the model's ability to minimize False Negatives 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yourusername/diabetes-prediction-svm.git](https://github.com/yourusername/diabetes-prediction-svm.git)
+   ```
 2. **Install Dependencies:**
    ```bash
    pip install  - r requirements.txt
+   ```
 3. **Run the Notebook:**
    ```bash
    jupyter nootbook 'Diabetics Prediction .ipynb'
+   ```
    
 ## 🧠 Usage Example
 The system accepts manual input for real-time prediction. You can run this directly in the notebook:
-    ```python
+   ```python
     Sample Input: (Pregnancies, Glucose, BP, SkinThickness, Insulin, BMI, DPF, Age)
     input_data = (5, 166, 72, 19, 175, 22.7, 0.6, 51)
 
     # Prediction Output
     # "The person is Diabetic!"
+   ```
       
 ## 🔮 Future Scope
 * Hyperparameter Tuning: Implementing GridSearchCV to find the optimal C value for the SVM.
 * Model Comparison: Evaluating Random Forest and XGBoost to see if non-linear models yield higher accuracy.
 * Deployment: Creating a web interface using Streamlit or Flask for easier user access.
+
+---
+
+Author: [Rishikesh Naware]<img width="3000" height="2400" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/d9cb4f74-90f2-46fb-b768-2efb59875737" />
+<img width="1800" height="1500" alt="confusion_matrix" src="https://github.com/user-attachments/assets/e82b889d-3884-4abd-8555-9a9d727811bd" />
+(https://www.linkedin.com/in/rishikesh-naware-9a18ab1a8/)
