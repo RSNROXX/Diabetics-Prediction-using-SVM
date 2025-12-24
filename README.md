@@ -47,21 +47,21 @@ The confusion matrix highlights the model's ability to minimize False Negatives 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/diabetes-prediction-svm.git](https://github.com/yourusername/diabetes-prediction-svm.git)
+   git clone https://github.com/RSNROXX/Diabetics-Prediction-using-SVM.git
    ```
 2. **Install Dependencies:**
    ```bash
-   pip install  - r requirements.txt
+   pip install  -r requirements.txt
    ```
 3. **Run the Notebook:**
    ```bash
-   jupyter nootbook 'Diabetics Prediction .ipynb'
+   jupyter nootbook 'Diabetics Prediction.ipynb'
    ```
    
 ## 🧠 Usage Example
 The system accepts manual input for real-time prediction. You can run this directly in the notebook:
    ```python
-    Sample Input: (Pregnancies, Glucose, BP, SkinThickness, Insulin, BMI, DPF, Age)
+    #  Sample Input: (Pregnancies, Glucose, BP, SkinThickness, Insulin, BMI, DPF, Age)
     input_data = (5, 166, 72, 19, 175, 22.7, 0.6, 51)
 
     # Prediction Output
