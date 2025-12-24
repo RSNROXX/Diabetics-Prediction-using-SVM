@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Compiled Python files
+__pycache__/
+*.pyc
+
 # Distribution / packaging
 .Python
 build/
@@ -147,6 +151,9 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# System files
+.DS_Store
 
 # Rope project settings
 .ropeproject
