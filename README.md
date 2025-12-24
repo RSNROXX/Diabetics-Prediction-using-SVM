@@ -17,7 +17,7 @@ Understanding feature relationships is critical for model performance.
 The heatmap below displays the correlation between different health indicators.
 *(Key Insight: Glucose levels and BMI show the strongest correlation with the diabetic outcome.)*
 
-![Correlation Heatmap](correlation_heatmap.png)
+<img width="3000" height="2400" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/d9cb4f74-90f2-46fb-b768-2efb59875737" />
 
 ## ⚙️ Model Performance
 The model was evaluated using a 20% test split.
@@ -27,7 +27,7 @@ The model was evaluated using a 20% test split.
 ### Confusion Matrix
 The confusion matrix highlights the model's ability to minimize False Negatives (cases where a diabetic person is incorrectly classified as healthy).
 
-![Confusion Matrix](confusion_matrix.png)
+<img width="1800" height="1500" alt="confusion_matrix" src="https://github.com/user-attachments/assets/e82b889d-3884-4abd-8555-9a9d727811bd" />
 
 ### Accuracy Metrics
 | Metric | Score | Description |
@@ -75,6 +75,4 @@ The system accepts manual input for real-time prediction. You can run this direc
 
 ---
 
-Author: [Rishikesh Naware]<img width="3000" height="2400" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/d9cb4f74-90f2-46fb-b768-2efb59875737" />
-<img width="1800" height="1500" alt="confusion_matrix" src="https://github.com/user-attachments/assets/e82b889d-3884-4abd-8555-9a9d727811bd" />
-(https://www.linkedin.com/in/rishikesh-naware-9a18ab1a8/)
+Author: [Rishikesh Naware](https://www.linkedin.com/in/rishikesh-naware-9a18ab1a8/)
